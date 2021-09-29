@@ -1,3 +1,3 @@
 # cvicenie1
 
-** Toto bude priklad na VAII **
+*Toto bude priklad na VAII*
